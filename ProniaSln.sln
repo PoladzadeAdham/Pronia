@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia", "Pronia\Pronia.csproj", "{4A7DC503-EDAB-459C-B7F1-C77D4BB668BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7DC503-EDAB-459C-B7F1-C77D4BB668BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7DC503-EDAB-459C-B7F1-C77D4BB668BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7DC503-EDAB-459C-B7F1-C77D4BB668BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7DC503-EDAB-459C-B7F1-C77D4BB668BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BECF8CFE-4DF1-4183-A18D-D9838784ACF6}
+	EndGlobalSection
+EndGlobal
