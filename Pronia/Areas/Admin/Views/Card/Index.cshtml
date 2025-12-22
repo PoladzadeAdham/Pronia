@@ -1,0 +1,45 @@
+﻿@model List<Card>
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="row">
+            <div class="col-2">
+
+                <a class="btn btn-success" asp-action="Create">Create</a>
+
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">ImagePath</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var card in Model)
+                {
+                    <tr>
+                        <th scope="row">@card.Id</th>
+                        <td>@card.Title</td>
+                        <td>@card.Description</td>
+                        <td><img src="~/assets/images/website-images/@card.ImagePath" width="40" height="40" alt="Alternate Text" /></td>
+                        <td>
+                            <a class="btn btn-warning">Update</a>
+                            <a asp-controller ="Card" asp-action="Delete" asp-route-id="@card.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
