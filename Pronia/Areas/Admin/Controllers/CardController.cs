@@ -18,6 +18,46 @@ namespace Pronia.Areas.Admin.Controllers
 
 
         [HttpGet]
+        public async Task<IActionResult> Update(int id)
+        {
+            var card = await _context.Cards.FindAsync(id);
+
+            if(card is null)
+            {
+                return NotFound();
+            }
+
+            return View(card);
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(Card card)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var existCard = await _context.Cards.FindAsync(card.Id);
+
+            if(existCard is null)
+                return NotFound();
+
+
+            existCard.Title = card.Title;
+            existCard.Description = card.Description;
+            existCard.ImagePath = card.ImagePath;
+
+            _context.Cards.Update(existCard);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+
+        }
+
+
+        [HttpGet]
         public IActionResult Create()
         {
             return View();

@@ -31,7 +31,7 @@
                         <td>@card.Description</td>
                         <td><img src="~/assets/images/website-images/@card.ImagePath" width="40" height="40" alt="Alternate Text" /></td>
                         <td>
-                            <a class="btn btn-warning">Update</a>
+                            <a asp-route-id="@card.Id" asp-action="Update" class="btn btn-warning">Update</a>
                             <a asp-controller ="Card" asp-action="Delete" asp-route-id="@card.Id" class="btn btn-danger">Delete</a>
                         </td>
                     </tr>
