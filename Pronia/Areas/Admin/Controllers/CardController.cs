@@ -36,7 +36,7 @@ namespace Pronia.Areas.Admin.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState);
+                return View();
             }
 
             var existCard = await _context.Cards.FindAsync(card.Id);
