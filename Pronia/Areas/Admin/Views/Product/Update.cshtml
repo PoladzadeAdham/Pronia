@@ -1,0 +1,52 @@
+﻿@model Product
+
+
+<div class="container">
+    <div class="row">
+        <form method="post" asp-action="Update" asp-controller="Product">
+
+
+            <div class="form-group">
+                <label for="title">Name</label>
+                <input asp-for="Name" class="form-control" id="Name" placeholder="Name">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label for="Description">Description</label>
+                <input asp-for="Description" class="form-control" id="description" placeholder="Description">
+                <span class="text-danger" asp-validation-for="Description"></span>
+            </div>
+            <div class="form-group">
+                <label for="ImagePath">ImagePath</label>
+                <input asp-for="ImagePath" class="form-control" id="ImagePath" placeholder="ImagePath">
+                <span class="text-danger" asp-validation-for="ImagePath"></span>
+            </div>
+            <div class="form-group">
+                <label for="OfferPercentage">Price</label>
+                <input asp-for="Price" class="form-control" id="Price" placeholder="Price">
+                <span class="text-danger" asp-validation-for="Price"></span>
+            </div>
+            <div class="form-group">
+                <label for="OfferPercentage">CategoryId</label>
+
+                <option value="null" disabled selected>Category secin</option>
+                <select asp-for="CategoryId" id="CategoryId">
+                    <@foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+
+                </select>
+
+                <span class="text-danger" asp-validation-for="CategoryId"></span>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+
+        </form>
+    </div>
+</div>
+
+
+
