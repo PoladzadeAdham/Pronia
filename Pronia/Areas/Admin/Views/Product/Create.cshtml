@@ -1,9 +1,9 @@
-﻿@model Product
+﻿@model ProductCreateVm
 
 
 <div class="container">
     <div class="row">
-        <form method="post" asp-action="Create" asp-controller="Product">
+        <form method="post" asp-action="Create" asp-controller="Product" enctype="multipart/form-data">
 
 
             <div class="form-group">
@@ -17,21 +17,39 @@
                 <span class="text-danger" asp-validation-for="Description"></span>
             </div>
             <div class="form-group">
-                <label for="ImagePath">ImagePath</label>
-                <input asp-for="ImagePath" class="form-control" id="ImagePath" placeholder="ImagePath">
-                <span class="text-danger" asp-validation-for="ImagePath"></span>
+                <label for="MainImage">MainImage</label>
+                <input asp-for="MainImage" class="form-control" id="MainImage" placeholder="MainImage">
+                <span class="text-danger" asp-validation-for="MainImage"></span>
             </div>
+
+            <div class="form-group">
+                <label for="HoverImage">HoverImage</label>
+                <input asp-for="HoverImage" class="form-control" id="HoverImage" placeholder="HoverImage">
+                <span class="text-danger" asp-validation-for="HoverImage"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Images">Images</label>
+                <input asp-for="Images" class="form-control" id="Images" placeholder="Images">
+                <span class="text-danger" asp-validation-for="Images"></span>
+            </div>
+
             <div class="form-group">
                 <label for="OfferPercentage">Price</label>
                 <input asp-for="Price" class="form-control" id="Price" placeholder="Price">
                 <span class="text-danger" asp-validation-for="Price"></span>
             </div>
             <div class="form-group">
+                <label for="Rating">Rating</label>
+                <input asp-for="Rating" class="form-control" id="Rating" placeholder="Rating">
+                <span class="text-danger" asp-validation-for="Rating"></span>
+            </div>
+            <div class="form-group">
                 <label for="OfferPercentage">CategoryId</label>
 
                 <option value="null" disabled selected>Category secin</option>
                 <select asp-for="CategoryId" id="CategoryId">
-                    <@foreach (Category category in ViewBag.Categories)
+                    @foreach (Category category in ViewBag.Categories)
                     {
                         <option value="@category.Id">@category.Name</option>
                     }
