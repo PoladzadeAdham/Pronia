@@ -22,6 +22,8 @@ namespace Pronia.Models
         public ICollection<ProductImage> ProductImages { get; set; } = [];
         [Range(1, 5)]
         public double? Rating { get; set; }
+        public ICollection<ProductTag> ProductTags { get; set; } = [];
+
 
     }
 

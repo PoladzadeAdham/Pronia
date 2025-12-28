@@ -1,9 +1,9 @@
-﻿@model Product
+﻿@model ProductUpdateVm
 
 
 <div class="container">
     <div class="row">
-        <form method="post" asp-action="Update" asp-controller="Product">
+        <form method="post" asp-action="Update" asp-controller="Product" enctype="multipart/form-data">
 
 
             <div class="form-group">
@@ -16,14 +16,35 @@
                 <input asp-for="Description" class="form-control" id="description" placeholder="Description">
                 <span class="text-danger" asp-validation-for="Description"></span>
             </div>
+            <div class="form-group">
+                <input type="hidden" asp-for="MainImagePath" />
+                <img src="~/assets/images/website-images/@Model.MainImagePath" width="50" height="50" />
+                <label for="MainImage">MainImage</label>
+                <input asp-for="MainImage" class="form-control" id="MainImage">
+                <span class="text-danger" asp-validation-for="MainImage"></span>
+            </div>
+            <div class="form-group">
+                <input type="hidden" asp-for= "HoverImagePath" />
+                <img src="~/assets/images/website-images/@Model.HoverImagePath" width="50" height="50" />
+                <label for="HoverImage">HoverImage</label>
+                <input asp-for="HoverImage" class="form-control" id="HoverImage">
+                <span class="text-danger" asp-validation-for="HoverImage"></span>
+            </div>
+
 
             <div class="form-group">
                 <label for="OfferPercentage">Price</label>
                 <input asp-for="Price" class="form-control" id="Price" placeholder="Price">
                 <span class="text-danger" asp-validation-for="Price"></span>
             </div>
+
             <div class="form-group">
-                <label for="OfferPercentage">CategoryId</label>
+                <label for="Rating">Rating</label>
+                <input asp-for="Rating" class="form-control" id="Rating" placeholder="Rating">
+                <span class="text-danger" asp-validation-for="Rating"></span>
+            </div>
+            <div class="form-group">
+                <label for="CategoryId">CategoryId</label>
 
                 <option value="null" disabled selected>Category secin</option>
                 <select asp-for="CategoryId" id="CategoryId">
@@ -37,6 +58,19 @@
                 <span class="text-danger" asp-validation-for="CategoryId"></span>
             </div>
 
+            <div class="form-group">
+                <label for="TagIds">TagId</label>
+
+                <select asp-for="TagIds" id="TagIds">
+                    @foreach (Tag tag in ViewBag.Tags)
+                    {
+                        <option value="@tag.Id">@tag.Name</option>
+                    }
+
+                </select>
+
+                <span class="text-danger" asp-validation-for="TagIds"></span>
+            </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>
 

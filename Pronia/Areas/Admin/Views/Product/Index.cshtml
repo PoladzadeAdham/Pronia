@@ -1,4 +1,4 @@
-﻿@model List<Product>
+﻿@model List<ProductGetVm>
 
 
 <div class="container">
@@ -42,11 +42,12 @@
                         <td><img src="~/assets/images/website-images/@product.MainImagePath" width="40" height="40" alt="Alternate Text" /></td>
                         <td><img src="~/assets/images/website-images/@product.HoverImagePath" width="40" height="40" alt="Alternate Text" /></td>
                         <td>@product.Price</td>
-                        <td>@product.Category.Name</td>
+                        <td>@product.CategoryName</td>
 
                         <td>
-                            <a asp-route-id="@product.Id" asp-action="Update" class="btn btn-warning">Update</a>
-                            <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger deleteBtn">Delete</a>
+                            <a asp-route-id="@product.Id" asp-action="Detail" class="btn btn-primary"><i class="fa-solid fa-info"></i></a>
+                            <a asp-route-id="@product.Id" asp-action="Update" class="btn btn-warning"><i class="fa-regular fa-pen-to-square"></i></a>
+                            <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger deleteBtn"><i class="fa-solid fa-trash"></i></a>
                         </td>
                     </tr>
                 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PYsq+VwPphor34pMcoGloQ4kEQwxQOeTMeYNz8NuFnU=",
+  "Hash": "Fo+lE+xPTP+O08CqWUgFU7pZBEZvRGDGifOxrh71O1I=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -19400,6 +19400,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cdz186ldzc",
+      "Integrity": "UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dnvnh623lv",
+      "Integrity": "B5eh8NgHEInrnwPJbarU0bZsV5XRwl73wPVz3v4Bmbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\1.png",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -20072,6 +20114,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsthsd7k31",
+      "Integrity": "6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -20387,6 +20450,90 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\3.png"
     },
     {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsthsd7k31",
+      "Integrity": "6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "enbypafgmj",
+      "Integrity": "hn+0ZdMWbF2IzuOIOBW2ZbP0My9WPp5ybycZp3/ajJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/9922b5fe-aa74-46a4-88a4-4a43008874eaimages#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xcepdv0g6f",
+      "Integrity": "D+IQK5LpHCO3w83Ii5+tefjZVHzGeg3Lkx2Ay3SkbNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsthsd7k31",
+      "Integrity": "6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -20427,6 +20574,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\card.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cdz186ldzc",
+      "Integrity": "UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg"
     },
     {
       "Identity": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\dark.png",
@@ -97188,6 +97356,170 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.cdz186ldzc.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cdz186ldzc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\02653dd7-2d3b-4bce-bfc2-5f71f20f588cWhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.dnvnh623lv.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B5eh8NgHEInrnwPJbarU0bZsV5XRwl73wPVz3v4Bmbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnvnh623lv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B5eh8NgHEInrnwPJbarU0bZsV5XRwl73wPVz3v4Bmbc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\04e36dff-acc9-4df4-846c-9f7b0b5fd687WhatsApp Image 2025-04-10 at 18.44.37_3fd622e0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B5eh8NgHEInrnwPJbarU0bZsV5XRwl73wPVz3v4Bmbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B5eh8NgHEInrnwPJbarU0bZsV5XRwl73wPVz3v4Bmbc="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/1.p45lwpz6z8.png",
       "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\1.png",
       "Selectors": [],
@@ -99812,6 +100144,88 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:43:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.lsthsd7k31.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:43:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsthsd7k31"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/143599a6-a2f5-4038-92eb-d4bd6c127742WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/1-4-570x633.cv1ho448w2.jpg",
       "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
       "Selectors": [],
@@ -101042,6 +101456,334 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 20:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.lsthsd7k31.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 20:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsthsd7k31"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/4c6cea42-87a2-4770-b38d-3406928ce8edWhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.enbypafgmj.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "626212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hn+0ZdMWbF2IzuOIOBW2ZbP0My9WPp5ybycZp3/ajJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "enbypafgmj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hn+0ZdMWbF2IzuOIOBW2ZbP0My9WPp5ybycZp3/ajJ4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\6bacb396-d16d-470d-b530-7209bf00b660pexels-hsapir-1054655.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "626212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hn+0ZdMWbF2IzuOIOBW2ZbP0My9WPp5ybycZp3/ajJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hn+0ZdMWbF2IzuOIOBW2ZbP0My9WPp5ybycZp3/ajJ4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+IQK5LpHCO3w83Ii5+tefjZVHzGeg3Lkx2Ay3SkbNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+IQK5LpHCO3w83Ii5+tefjZVHzGeg3Lkx2Ay3SkbNk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/9922b5fe-aa74-46a4-88a4-4a43008874eaimages.xcepdv0g6f.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+IQK5LpHCO3w83Ii5+tefjZVHzGeg3Lkx2Ay3SkbNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 22:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcepdv0g6f"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/9922b5fe-aa74-46a4-88a4-4a43008874eaimages.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+IQK5LpHCO3w83Ii5+tefjZVHzGeg3Lkx2Ay3SkbNk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.lsthsd7k31.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 18:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsthsd7k31"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/a3357080-2c89-4e42-a460-ba5c88f9db79WhatsApp Image 2025-04-08 at 00.46.11_f8ac2f16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+49xXTRqBOBIMGRA6N7mcmf5H/YaqXuerc1xkZltoA="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/car.i6d2t4hyna.png",
       "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
       "Selectors": [],
@@ -101202,6 +101944,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-yBq34vjrYG0zLwbB4EgsG+2wpmfQ2Kh0bMCMb0pWgp8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.cdz186ldzc.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 20:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cdz186ldzc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "AssetFile": "C:\\Users\\ADHAM\\Desktop\\Code academy\\Tasks\\ProniaSln\\Pronia\\wwwroot\\assets\\images\\website-images\\cbc1ea9d-ede0-4fa7-896a-76a5331374e8WhatsApp Image 2025-04-10 at 18.45.10_9337e81d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 20:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNlWRFqosGcCMQ0qidv+VteP6FYo4S/yXZ2kUK7s3yE="
         }
       ]
     },
