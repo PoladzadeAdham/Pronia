@@ -17,7 +17,7 @@ namespace Pronia.ViewModels.ProductViewModels
 
         public IFormFile MainImage { get; set; }
         public IFormFile HoverImage { get; set; }
-        public List<IFormFile>? Images { get; set; }
+        public List<IFormFile> Images { get; set; } = [];
         [Range(1, 5)]
         public double Rating { get; set; }
         public List<int> TagIds { get; set; }

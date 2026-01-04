@@ -10,7 +10,8 @@
         public string MainImagePath { get; set; }
         public string HoverImagePath { get; set; }
         public double? Rating { get; set; }
-        public List<string> TagNames { get; set; }
+        public List<string> TagNames { get; set; } = [];
+        public List<string> AdditionalImagePath { get; set; } = [];
 
     }
 }

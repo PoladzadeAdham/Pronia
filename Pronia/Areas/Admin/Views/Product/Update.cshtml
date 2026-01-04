@@ -24,11 +24,35 @@
                 <span class="text-danger" asp-validation-for="MainImage"></span>
             </div>
             <div class="form-group">
-                <input type="hidden" asp-for= "HoverImagePath" />
+                <input type="hidden" asp-for="HoverImagePath" />
                 <img src="~/assets/images/website-images/@Model.HoverImagePath" width="50" height="50" />
                 <label for="HoverImage">HoverImage</label>
                 <input asp-for="HoverImage" class="form-control" id="HoverImage">
                 <span class="text-danger" asp-validation-for="HoverImage"></span>
+            </div>
+
+            <div class="form-group">
+
+                @for (int i = 0; i < Model.AdditionalImagePath.Count; i++)
+                {
+
+                    <div class="imageDiv">
+                        <input type="hidden" asp-for="AdditionalImagePath" value="@Model.AdditionalImagePath[i]" />
+                        <input type="hidden" asp-for="AdditionalImageIds" value="@Model.AdditionalImageIds[i]" />
+
+                        <div class="image" style="position: relative; width: 50px; height: 50px; display: inline">
+                            <img src="~/assets/images/website-images/@Model.AdditionalImagePath[i]" width="50" height="50" />
+                            <span style="position: absolute;right: 4px;top: -14px;padding: 3px;background-color: red;color: white;font-size: 9px;cursor: pointer;" class="closeButton">X</span>
+                        </div>
+
+                    </div>
+
+                }
+
+
+                <label for="Images">Images</label>
+                <input asp-for="Images" class="form-control" id="Images">
+                <span class="text-danger" asp-validation-for="Images"></span>
             </div>
 
 
@@ -78,5 +102,17 @@
     </div>
 </div>
 
+
+<script>
+    const removeBtns = document.querySelectorAll(".closeButton");
+
+    removeBtns.forEach(btn=>{
+        btn.addEventListener("click", function (e) {
+            e.preventDefault();
+            this.closest(".imageDiv").remove();
+        });
+    })
+
+</script>
 
 

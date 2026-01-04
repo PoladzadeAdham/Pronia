@@ -23,6 +23,8 @@ namespace Pronia.ViewModels.ProductViewModels
         public double? Rating { get; set; }
         public string? MainImagePath { get; set; }
         public string? HoverImagePath { get; set; }
+        public List<string>? AdditionalImagePath { get; set; } = [];
+        public List<int>? AdditionalImageIds { get; set; } = [];
 
     }
 }
