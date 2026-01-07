@@ -1276,9 +1276,41 @@
         <!-- Scroll To Top End Here -->
     </div>
 
+
+    <input type="hidden" class="successMessage" value="@TempData["SuccessMessage"]" />;
+    <input type="hidden" class="errorMessage" value="@TempData["ErrorMessage"]" />;
+
     <!-- Global Vendor, plugins JS -->
     <!-- JS Files
     ============================================ -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script>
+        const successInp = document.querySelector(".successMessage")
+        const errorInp = document.querySelector(".errorMessage")
+
+        if(successInp.value != null && successInp.value.length > 0){
+                    Swal.fire({
+          position: "center",
+          icon: "success",
+          title: successInp.value,
+          showConfirmButton: false,
+          timer: 3500
+        });
+        }
+
+
+        if(errorInp.value != null && errorInp.value.length > 0){
+                          Swal.fire({
+          icon: "error",
+          title: "Oops...",
+          text: errorInp.value,
+          footer: '<a href="#">Why do I have this issue?</a>'
+        });
+        }
+
+    </script>
+
 
     <script src="~/assets/js/vendor/bootstrap.bundle.min.js"></script>
     <script src="~/assets/js/vendor/jquery-3.6.0.min.js"></script>
