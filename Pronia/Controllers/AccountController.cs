@@ -103,6 +103,9 @@ namespace Pronia.Controllers
 
             await signInManager.SignInAsync(user, vm.IsRemember);
 
+            if(!string.IsNullOrWhiteSpace(vm.ReturnUrl))
+                return Redirect(vm.ReturnUrl);  
+
             return RedirectToAction("Index", "Home");
 
         }
