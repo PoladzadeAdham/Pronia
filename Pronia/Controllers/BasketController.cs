@@ -46,9 +46,44 @@ namespace Pronia.Controllers
             _appDbContext.Update(basketItem);
             await _appDbContext.SaveChangesAsync();
 
-            return RedirectToAction("Index", "Basket");
+            var basketItems = await _basketService.GetBasketItemsAsync();
+
+            return PartialView("_BasketPartialView", basketItems);
 
         }
+        
+        public async Task<IActionResult> IncreaseBasketItemCount(int productId)
+        {
+
+            var isExistProduct = await _appDbContext.Products.AnyAsync(x => x.Id == productId);
+
+            if (isExistProduct == false)
+                return NotFound();
+
+            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier) ?? "";
+
+            var isExistUser = await _appDbContext.Users.AnyAsync(x => x.Id == userId);
+
+            if (isExistUser == false)
+                return BadRequest();
+
+            var basketItem = await _appDbContext.BasketItems.FirstOrDefaultAsync(x => x.UserId == userId && x.ProductId == productId);
+
+            if (basketItem == null)
+                return NotFound();
+
+                basketItem.Count++;
+
+
+            _appDbContext.Update(basketItem);
+            await _appDbContext.SaveChangesAsync();
+
+            var basketItems = await _basketService.GetBasketItemsAsync();
+
+            return PartialView("_BasketPartialView", basketItems);
+
+        }
+        
 
     }
 }
